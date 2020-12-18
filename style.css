@@ -96,6 +96,13 @@ body {
 .result .bmi_texts {
 	color: #228b22;
 }
+#my-info{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
 @media only screen and (max-width: 700px) {
 	.container {
 		width: 90%;
